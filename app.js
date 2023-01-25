@@ -1,0 +1,1 @@
+require('./src/logic/Start.js')
