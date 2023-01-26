@@ -4,4 +4,9 @@ trabaja en concunto con el proyecto "pedidos_client" que es la interface de usua
 ## Requisitos
 * Node.js
 * MongoDB
+* MongoDBCompass/Robo T3 (opcional)
 ## Instalación
+* clonar el repositorio
+* ir a la carpeta donde fue clonado el repositorio
+* correr el comando: npm install 
+* 
