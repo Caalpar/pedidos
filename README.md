@@ -13,4 +13,6 @@ trabaja en concunto con el proyecto "pedidos_client" que es la interface de usua
 2. ADMIN_PASSWORD : contraseña del administrador del cmd
 3. MONGODB_CNN    : url de la conexion de la base de datos 
 * correr el comando: npm install 
+## Configuración
+* iniciar sesión en el navegador con el puerto (PORT) definido en el archivo .env eje: "http://localhost:3000"
 
