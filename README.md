@@ -9,5 +9,8 @@ trabaja en concunto con el proyecto "pedidos_client" que es la interface de usua
 * clonar el repositorio
 * ir a la carpeta donde fue clonado el repositorio
 * .configurar archivo .env
+ * PORT           : puerto de escucha de express
+ * ADMIN_PASSWORD : contraseña del administrador del cmd
+ * MONGODB_CNN    : url de la conexion de la base de datos 
 * correr el comando: npm install 
 
